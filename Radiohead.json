@@ -4,8 +4,8 @@
     {
     "name": "Amnesiac",
     "sources": ["https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/Amnesiac.png"],
-    "x": 200,
-    "y": 200
+    "x": 185,
+    "y": 154
     }
     ],
     "whitelist": [],
