@@ -1,3 +1,3 @@
 # RHBlueyPlace
-Radiohead BlueyPlace Faction. \newline
+Radiohead BlueyPlace Faction.  
 This is All You Need to join.
