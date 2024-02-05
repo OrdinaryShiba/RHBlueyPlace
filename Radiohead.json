@@ -8,11 +8,11 @@
     "y": 154
     },
     {
-        "name": "DSOTM",
-        "sources": ["https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/DSOTM.png"],
-        "x": 217,
-        "y": 154
-        }
+    "name": "DSOTM",
+    "sources": ["https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/DSOTM.png"],
+    "x": 217,
+    "y": 154
+    }
     ],
     "whitelist": [],
     "blacklist": []
