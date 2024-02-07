@@ -2,10 +2,10 @@
     "contact": "https://discord.com/channels/959534476520730724/1202974040940216381",
     "templates": [
     {
-    "name": "Among Us",
-    "sources": ["https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/amogus.png"],
-    "x": 99,
-    "y": 164
+        "name": "Among Us",
+        "sources": ["https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/amogus.png"],
+        "x": 99,
+        "y": 164
     }
     ],
     "whitelist": [],

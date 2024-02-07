@@ -2,17 +2,23 @@
     "contact": "https://discord.com/channels/959534476520730724/1202974040940216381",
     "templates": [
     {
-    "name": "Amnesiac",
-    "sources": ["https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/Amnesiac.png"],
-    "x": 185,
-    "y": 154
+        "name": "Amnesiac",
+        "sources": ["https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/Amnesiac.png"],
+        "x": 185,
+        "y": 154
     },
     {
-    "name": "DSOTM",
-    "sources": ["https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/DSOTM.png"],
-    "x": 217,
-    "y": 154
-    }
+        "name": "DSOTM",
+        "sources": ["https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/DSOTM.png"],
+        "x": 217,
+        "y": 154
+    },
+    {
+        "name": "TCnTS",
+        "sources": ["https://raw.githubusercontent.com/OrdinaryShiba/RHBlueyPlace/main/TCnTS.png"],
+        "x": 153,
+        "y": 154
+        }
     ],
     "whitelist": [],
     "blacklist": []
